@@ -1,0 +1,142 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the openmediavault-spindown package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# 
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: openmediavault-spindown\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-11-17 12:10+0000\n"
+"PO-Revision-Date: 2026-11-17 12:11+0000\n"
+"Language-Team: Arabic (Saudi Arabia) (https://app.transifex.com/openmediavault-plugin-developers/teams/1854/ar_SA/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: ar_SA\n"
+"Plural-Forms: nplurals=6; plural=(n==0 ? 0 : n==1 ? 1 : n==2 ? 2 : n%100>=3 && n%100<=10 ? 3 : n%100>=11 && n%100<=99 ? 4 : 5);\n"
+
+msgid "%d h %d min"
+msgstr ""
+
+msgid "%d hours"
+msgstr ""
+
+msgid "%d min"
+msgstr ""
+
+msgid "1 hour"
+msgstr ""
+
+msgid "10 minutes"
+msgstr ""
+
+msgid "2 hours"
+msgstr ""
+
+msgid "20 minutes"
+msgstr ""
+
+msgid "3 hours"
+msgstr ""
+
+msgid "30 minutes"
+msgstr ""
+
+msgid "4 hours"
+msgstr ""
+
+msgid "5 hours"
+msgstr ""
+
+msgid "5 hours 30 minutes"
+msgstr ""
+
+msgid "5 minutes"
+msgstr ""
+
+msgid "Asleep"
+msgstr ""
+
+msgid "Capacity"
+msgstr ""
+
+msgid ""
+"Choose how long each hard disk may sit idle before it is put to sleep. "
+"Select a disk, click <b>Edit</b> and pick a time. A sleeping disk is never "
+"woken to check on it, and it wakes by itself the next time something reads "
+"or writes it."
+msgstr ""
+
+msgid "Disk"
+msgstr ""
+
+msgid "Disk spin down"
+msgstr ""
+
+msgid "Does not accept the sleep command"
+msgstr ""
+
+msgid "Edit"
+msgstr ""
+
+msgid "Going to sleep"
+msgstr ""
+
+msgid "Hard disk '%s' not found."
+msgstr ""
+
+msgid ""
+"How long the disk must go without any reads or writes before it is put to "
+"sleep. This is the same setting as the disk's Spindown time in Storage › "
+"Disks."
+msgstr ""
+
+msgid "Idle, sleeps in %s"
+msgstr ""
+
+msgid "In use"
+msgstr ""
+
+msgid "Last slept"
+msgstr ""
+
+msgid "Model"
+msgstr ""
+
+msgid "Never"
+msgstr ""
+
+msgid "Not connected"
+msgstr ""
+
+msgid "Not watched yet: apply the pending changes"
+msgstr ""
+
+msgid "Put to sleep after"
+msgstr ""
+
+msgid "Saved. Click Apply to start using the new time."
+msgstr ""
+
+msgid "Sleeps after"
+msgstr ""
+
+msgid "Spin down"
+msgstr ""
+
+msgid "Spin down idle disks that ignore their standby timer."
+msgstr ""
+
+msgid "Status"
+msgstr ""
+
+msgid "Stays awake"
+msgstr ""
+
+msgid "Times slept"
+msgstr ""
+
+msgid "under a minute"
+msgstr ""
