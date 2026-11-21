@@ -3,6 +3,9 @@
 # This file is distributed under the same license as the openmediavault-spindown package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 # 
+# Translators:
+# kochin <kochinc@outlook.com>, 2026
+# 
 #, fuzzy
 msgid ""
 msgstr ""
@@ -10,6 +13,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2026-11-17 12:10+0000\n"
 "PO-Revision-Date: 2026-11-17 12:11+0000\n"
+"Last-Translator: kochin <kochinc@outlook.com>, 2026\n"
 "Language-Team: Chinese (Taiwan) (https://app.transifex.com/openmediavault-plugin-developers/teams/1854/zh_TW/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -18,49 +22,49 @@ msgstr ""
 "Plural-Forms: nplurals=1; plural=0;\n"
 
 msgid "%d h %d min"
-msgstr ""
+msgstr "%d 時 %d 分"
 
 msgid "%d hours"
-msgstr ""
+msgstr "%d 小時"
 
 msgid "%d min"
-msgstr ""
+msgstr "%d 分鐘"
 
 msgid "1 hour"
-msgstr ""
+msgstr "1 小時"
 
 msgid "10 minutes"
-msgstr ""
+msgstr "10 分鐘"
 
 msgid "2 hours"
-msgstr ""
+msgstr "2 小時"
 
 msgid "20 minutes"
-msgstr ""
+msgstr "20 分鐘"
 
 msgid "3 hours"
-msgstr ""
+msgstr "3 小時"
 
 msgid "30 minutes"
-msgstr ""
+msgstr "30 分鐘"
 
 msgid "4 hours"
-msgstr ""
+msgstr "4 小時"
 
 msgid "5 hours"
-msgstr ""
+msgstr "5 小時"
 
 msgid "5 hours 30 minutes"
-msgstr ""
+msgstr "5 小時 30 分鐘"
 
 msgid "5 minutes"
-msgstr ""
+msgstr "5 分鐘"
 
 msgid "Asleep"
-msgstr ""
+msgstr "休眠中"
 
 msgid "Capacity"
-msgstr ""
+msgstr "容量"
 
 msgid ""
 "Choose how long each hard disk may sit idle before it is put to sleep. "
@@ -68,75 +72,77 @@ msgid ""
 "woken to check on it, and it wakes by itself the next time something reads "
 "or writes it."
 msgstr ""
+"選擇每個硬碟在進入休眠狀態前可以閒置多久。先選擇一個硬碟，點選 <b>編輯</b> "
+"並挑個時間。休眠狀態中的硬碟不會被喚醒來檢查，它會在下次讀取或寫入時自行喚醒。"
 
 msgid "Disk"
-msgstr ""
+msgstr "磁碟"
 
 msgid "Disk spin down"
-msgstr ""
+msgstr "磁碟停止轉動"
 
 msgid "Does not accept the sleep command"
-msgstr ""
+msgstr "不接受休眠指令"
 
 msgid "Edit"
-msgstr ""
+msgstr "編輯"
 
 msgid "Going to sleep"
-msgstr ""
+msgstr "進入休眠中"
 
 msgid "Hard disk '%s' not found."
-msgstr ""
+msgstr "硬碟 '%s' 找不到。"
 
 msgid ""
 "How long the disk must go without any reads or writes before it is put to "
 "sleep. This is the same setting as the disk's Spindown time in Storage › "
 "Disks."
-msgstr ""
+msgstr "磁碟在進入休眠狀態前必須保持多久沒有讀寫操作。此設定與 儲存 › 磁碟 中的磁碟停止轉動時間相同。"
 
 msgid "Idle, sleeps in %s"
-msgstr ""
+msgstr "怠機中，%s 後進入休眠"
 
 msgid "In use"
-msgstr ""
+msgstr "使用中"
 
 msgid "Last slept"
-msgstr ""
+msgstr "上次休眠"
 
 msgid "Model"
-msgstr ""
+msgstr "機型"
 
 msgid "Never"
-msgstr ""
+msgstr "永不"
 
 msgid "Not connected"
-msgstr ""
+msgstr "未連接"
 
 msgid "Not watched yet: apply the pending changes"
-msgstr ""
+msgstr "尚未被看管：套用待處理的變更"
 
 msgid "Put to sleep after"
-msgstr ""
+msgstr "於此之後進入休眠："
 
 msgid "Saved. Click Apply to start using the new time."
-msgstr ""
+msgstr "已儲存。點擊 套用 即可開始使用新時間。"
 
 msgid "Sleeps after"
-msgstr ""
+msgstr "於此之後休眠："
 
 msgid "Spin down"
-msgstr ""
+msgstr "停止轉動"
 
 msgid "Spin down idle disks that ignore their standby timer."
-msgstr ""
+msgstr "將磁碟停止轉動，無視它們的待機計時器。"
 
 msgid "Status"
-msgstr ""
+msgstr "狀況"
 
 msgid "Stays awake"
-msgstr ""
+msgstr "保持甦醒"
 
 msgid "Times slept"
-msgstr ""
+msgstr "已休眠時間"
 
 msgid "under a minute"
-msgstr ""
+msgstr "一分鐘以內"

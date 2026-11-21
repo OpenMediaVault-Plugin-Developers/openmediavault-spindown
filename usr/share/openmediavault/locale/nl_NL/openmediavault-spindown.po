@@ -3,6 +3,9 @@
 # This file is distributed under the same license as the openmediavault-spindown package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 # 
+# Translators:
+# Stephan Paternotte <stephan@paternottes.net>, 2026
+# 
 #, fuzzy
 msgid ""
 msgstr ""
@@ -10,6 +13,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2026-11-17 12:10+0000\n"
 "PO-Revision-Date: 2026-11-17 12:11+0000\n"
+"Last-Translator: Stephan Paternotte <stephan@paternottes.net>, 2026\n"
 "Language-Team: Dutch (https://app.transifex.com/openmediavault-plugin-developers/teams/1854/nl/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -18,49 +22,49 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
 msgid "%d h %d min"
-msgstr ""
+msgstr "%d u %d min"
 
 msgid "%d hours"
-msgstr ""
+msgstr "%d uur"
 
 msgid "%d min"
-msgstr ""
+msgstr "%d min"
 
 msgid "1 hour"
-msgstr ""
+msgstr "1 uur"
 
 msgid "10 minutes"
-msgstr ""
+msgstr "10 minuten"
 
 msgid "2 hours"
-msgstr ""
+msgstr "2 uur"
 
 msgid "20 minutes"
-msgstr ""
+msgstr "20 minuten"
 
 msgid "3 hours"
-msgstr ""
+msgstr "3 uur"
 
 msgid "30 minutes"
-msgstr ""
+msgstr "30 minuten"
 
 msgid "4 hours"
-msgstr ""
+msgstr "4 uur"
 
 msgid "5 hours"
-msgstr ""
+msgstr "5 uur"
 
 msgid "5 hours 30 minutes"
-msgstr ""
+msgstr "5 uur 30 minuten"
 
 msgid "5 minutes"
-msgstr ""
+msgstr "5 minuten"
 
 msgid "Asleep"
-msgstr ""
+msgstr "In slaap"
 
 msgid "Capacity"
-msgstr ""
+msgstr "Capaciteit"
 
 msgid ""
 "Choose how long each hard disk may sit idle before it is put to sleep. "
@@ -68,75 +72,84 @@ msgid ""
 "woken to check on it, and it wakes by itself the next time something reads "
 "or writes it."
 msgstr ""
+"Kies hoe lang elke harde schijf inactief mag blijven voordat deze in slaap "
+"wordt gebracht. Selecteer een schijf, klik op <b>Bewerken</b> en kies een "
+"tijdsduur. Een schijf die in slaap is wordt nooit gewekt om erop te "
+"controleren, en hij wordt vanzelf wakker de volgende keer dat iets het leest"
+" of schrijft."
 
 msgid "Disk"
-msgstr ""
+msgstr "Schijf"
 
 msgid "Disk spin down"
-msgstr ""
+msgstr "Schijf spin-down"
 
 msgid "Does not accept the sleep command"
-msgstr ""
+msgstr "Accepteert het slaapcommando niet"
 
 msgid "Edit"
-msgstr ""
+msgstr "Bewerken"
 
 msgid "Going to sleep"
-msgstr ""
+msgstr "In slaap gaan"
 
 msgid "Hard disk '%s' not found."
-msgstr ""
+msgstr "Harde schijf '%s' niet gevonden."
 
 msgid ""
 "How long the disk must go without any reads or writes before it is put to "
 "sleep. This is the same setting as the disk's Spindown time in Storage › "
 "Disks."
 msgstr ""
+"Hoe lang de schijf actief moet zijn zonder enige lees- of schrijfbeurt "
+"voordat deze in slaap wordt gebracht. Dit is dezelfde instelling als de "
+"Spindown-tijd van de schijf in Opslag › Schijven."
 
 msgid "Idle, sleeps in %s"
-msgstr ""
+msgstr "Inactief, in slaap over %s"
 
 msgid "In use"
-msgstr ""
+msgstr "In gebruik"
 
 msgid "Last slept"
-msgstr ""
+msgstr "Laatst in slaap"
 
 msgid "Model"
-msgstr ""
+msgstr "Model"
 
 msgid "Never"
-msgstr ""
+msgstr "Nooit"
 
 msgid "Not connected"
-msgstr ""
+msgstr "Niet verbonden"
 
 msgid "Not watched yet: apply the pending changes"
-msgstr ""
+msgstr "Nog niet bekeken: pas de hangende wijzigingen toe"
 
 msgid "Put to sleep after"
-msgstr ""
+msgstr "In slaap zetten na"
 
 msgid "Saved. Click Apply to start using the new time."
-msgstr ""
+msgstr "Opgeslagen. Klik op Toepassen om de nieuwe tijdsduur te gebruiken."
 
 msgid "Sleeps after"
-msgstr ""
+msgstr "In slaap na"
 
 msgid "Spin down"
-msgstr ""
+msgstr "Spin-down"
 
 msgid "Spin down idle disks that ignore their standby timer."
 msgstr ""
+"Laat inactieve schijven die hun stand-by timer negeren, tot stilstand komen."
 
 msgid "Status"
-msgstr ""
+msgstr "Status"
 
 msgid "Stays awake"
-msgstr ""
+msgstr "Blijft wakker"
 
 msgid "Times slept"
-msgstr ""
+msgstr "Aantal keren in slaap"
 
 msgid "under a minute"
-msgstr ""
+msgstr "minder dan een minuut"

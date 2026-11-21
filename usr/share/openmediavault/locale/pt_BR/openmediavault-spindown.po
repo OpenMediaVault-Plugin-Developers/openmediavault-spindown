@@ -3,6 +3,9 @@
 # This file is distributed under the same license as the openmediavault-spindown package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 # 
+# Translators:
+# Jeann Cavalcante <wjeann@gmail.com>, 2026
+# 
 #, fuzzy
 msgid ""
 msgstr ""
@@ -10,6 +13,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2026-11-17 12:10+0000\n"
 "PO-Revision-Date: 2026-11-17 12:11+0000\n"
+"Last-Translator: Jeann Cavalcante <wjeann@gmail.com>, 2026\n"
 "Language-Team: Portuguese (Brazil) (https://app.transifex.com/openmediavault-plugin-developers/teams/1854/pt_BR/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -18,49 +22,49 @@ msgstr ""
 "Plural-Forms: nplurals=3; plural=(n == 0 || n == 1) ? 0 : n != 0 && n % 1000000 == 0 ? 1 : 2;\n"
 
 msgid "%d h %d min"
-msgstr ""
+msgstr "%d h %d min"
 
 msgid "%d hours"
-msgstr ""
+msgstr "%d horas"
 
 msgid "%d min"
-msgstr ""
+msgstr "%d min"
 
 msgid "1 hour"
-msgstr ""
+msgstr "1 hora"
 
 msgid "10 minutes"
-msgstr ""
+msgstr "10 minutos"
 
 msgid "2 hours"
-msgstr ""
+msgstr "2 horas"
 
 msgid "20 minutes"
-msgstr ""
+msgstr "20 minutos"
 
 msgid "3 hours"
-msgstr ""
+msgstr "3 horas"
 
 msgid "30 minutes"
-msgstr ""
+msgstr "30 minutos"
 
 msgid "4 hours"
-msgstr ""
+msgstr "4 horas"
 
 msgid "5 hours"
-msgstr ""
+msgstr "5 horas"
 
 msgid "5 hours 30 minutes"
-msgstr ""
+msgstr "5 horas 30 minutos"
 
 msgid "5 minutes"
-msgstr ""
+msgstr "5 minutos"
 
 msgid "Asleep"
-msgstr ""
+msgstr "Dormindo"
 
 msgid "Capacity"
-msgstr ""
+msgstr "Capacidade"
 
 msgid ""
 "Choose how long each hard disk may sit idle before it is put to sleep. "
@@ -68,75 +72,83 @@ msgid ""
 "woken to check on it, and it wakes by itself the next time something reads "
 "or writes it."
 msgstr ""
+"Escolha por quanto tempo cada disco rígido pode ficar inativo antes de "
+"entrar no modo de suspensão. Selecione um disco, clique em <b>Editar</b> e "
+"escolha um tempo. Um disco em suspensão nunca é ativado para verificação e "
+"volta a funcionar sozinho na próxima vez que houver uma leitura ou gravação "
+"nele."
 
 msgid "Disk"
-msgstr ""
+msgstr "Disco"
 
 msgid "Disk spin down"
-msgstr ""
+msgstr "Desativação do disco"
 
 msgid "Does not accept the sleep command"
-msgstr ""
+msgstr "Não aceita o comando “sleep”"
 
 msgid "Edit"
-msgstr ""
+msgstr "Editar"
 
 msgid "Going to sleep"
-msgstr ""
+msgstr "Ir dormir"
 
 msgid "Hard disk '%s' not found."
-msgstr ""
+msgstr "Disco rígido '%s' não encontrado."
 
 msgid ""
 "How long the disk must go without any reads or writes before it is put to "
 "sleep. This is the same setting as the disk's Spindown time in Storage › "
 "Disks."
 msgstr ""
+"Por quanto tempo o disco deve permanecer sem nenhuma leitura ou gravação "
+"antes de entrar no modo de suspensão. Essa configuração corresponde ao tempo"
+" de desligamento do disco Spindown em Armazenamento › Discos."
 
 msgid "Idle, sleeps in %s"
-msgstr ""
+msgstr "Ocioso, dorme em %s"
 
 msgid "In use"
-msgstr ""
+msgstr "Em uso"
 
 msgid "Last slept"
-msgstr ""
+msgstr "Última hibernação"
 
 msgid "Model"
-msgstr ""
+msgstr "Modelo"
 
 msgid "Never"
-msgstr ""
+msgstr "Nunca"
 
 msgid "Not connected"
-msgstr ""
+msgstr "Não conectado"
 
 msgid "Not watched yet: apply the pending changes"
-msgstr ""
+msgstr "Ainda não foi verificado: aplicar as alterações pendentes"
 
 msgid "Put to sleep after"
-msgstr ""
+msgstr "Colocar para dormir após"
 
 msgid "Saved. Click Apply to start using the new time."
-msgstr ""
+msgstr "Salvo. Clique em “Aplicar” para começar a usar o novo horário."
 
 msgid "Sleeps after"
-msgstr ""
+msgstr "Dormir após"
 
 msgid "Spin down"
-msgstr ""
+msgstr "Reduzir a rotação"
 
 msgid "Spin down idle disks that ignore their standby timer."
-msgstr ""
+msgstr "Desacione os discos inativos que ignoram seu temporizador de espera."
 
 msgid "Status"
-msgstr ""
+msgstr "Status"
 
 msgid "Stays awake"
-msgstr ""
+msgstr "Ficar acordado"
 
 msgid "Times slept"
-msgstr ""
+msgstr "Vezes que dormiu"
 
 msgid "under a minute"
-msgstr ""
+msgstr "menos de um minuto"
